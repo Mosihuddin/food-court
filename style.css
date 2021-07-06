@@ -39,6 +39,61 @@ section{
     padding-right: 10%;
 }
 .about img{
-    width: 80%;
+    width: 65%;
     margin-right: 10%;
 }
+.banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+div{
+    text-align: center;
+}
+.food img{
+    width: 90%;
+    padding-right: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+.food{
+    display: flex;
+    
+}
+.food1{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px ;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    text-align: center;
+}
+.food2{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px ;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.food3{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px ;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 5px;
+    text-align: center;
+}
+.social{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px ;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    
+}
+
